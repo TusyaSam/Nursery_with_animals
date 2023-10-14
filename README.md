@@ -1,35 +1,38 @@
-# Nursery_with_animals
-
 <div id="header" align="center">
+  
+  # Nursery_with_animals
+
   <img src="https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif" width="300"/>
 </div>
 
-# ubuntu
+## ubuntu
 
 :blush: Используя команду cat в терминале операционной системы Linux, создать
 два файла Домашние животные (заполнив файл собаками, кошками,
 хомяками) и Вьючные животными заполнив файл Лошадьми, верблюдами и
 ослы), а затем объединить их. Просмотреть содержимое созданного файла.
 Переименовать файл, дав ему новое имя (Друзья человека).
-
-
+![Безымянный](https://github.com/TusyaSam/Nursery_with_animals/assets/114438495/77bc099f-0065-412a-88ac-aba43719d6f3)
 
 :blush: Создать директорию, переместить файл туда.
+![Безымянный_2](https://github.com/TusyaSam/Nursery_with_animals/assets/114438495/5e8f1eb1-723f-4b6f-9c38-7462005b83c6)
 
 :blush: Подключить дополнительный репозиторий MySQL. Установить любой пакет
 из этого репозитория.
+![Безымянный_3](https://github.com/TusyaSam/Nursery_with_animals/assets/114438495/2a731eae-07d0-45dc-8f4f-b634dacccf2b)
 
 :blush: Установить и удалить deb-пакет с помощью dpkg.
+![Безымянный_4](https://github.com/TusyaSam/Nursery_with_animals/assets/114438495/e850584f-ff1f-4c5e-a0ee-2fee261087aa)
 
 :blush: Выложить историю команд в терминале ubuntu
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWozbDA0dG0zMWduN3NibnBqeXh2YXhqajRvNnU5c3B1NXZ0cWc3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKHVU0xsgGDCyPu/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/eg3f90cy2Mc6yVRWyR/giphy-downsized-large.gif" width="400"/>
 </div>
 
 
 ---
 
-# sql
+## sql
 
 :blush: Нарисовать диаграмму, в которой есть класс родительский класс, домашние
 животные и вьючные животные, в составы которых в случае домашних
@@ -64,7 +67,7 @@ CREATE DATABASE Human_friends;
 
 ---
 
-# java
+## java
 
 :disappointed_relieved: Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
 
